@@ -4,7 +4,7 @@ import { View } from 'react-native';
 
 export default class SpecifyArea extends Component {
   render() {
-    const { city, country } = this.props
+    const { city, country } = this.props.params
     return (
       <View style={{ paddingRight: 20 }}>
         <Form>
