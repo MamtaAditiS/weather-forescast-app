@@ -9,7 +9,7 @@ const remote = 'https://i.pinimg.com/originals/ae/e2/c7/aee2c787f9f57fc243d8890d
 export default class WelcomePage extends React.Component {
 
   render() {
-    console.log(this.props, 'this.props')
+    //console.log(this.props, 'this.props')
 
     return (
       <ImageBackground style={styles.bgImg} source={{ uri: remote }}>
