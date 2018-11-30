@@ -6,26 +6,24 @@ export default class SpecifyArea extends Component {
   render() {
       
     const { info } = this.props
-    console.log(info.query.results.item.forecast, "info ")
+    let { image = {} , title = '' , wind = {} } = info.query.results.channel || {}
+    let { forecast = [] }  = info.query.results.channel.item 
     return (
       <View style={{ paddingRight: 20 }}>
-        {info.forecast && info.forecast.map((data, index) => {
-            return  <Card>
-                        <CardItem header bordered>
-                            <Text>{info.title}</Text>
-                        </CardItem>
-                        <CardItem bordered>
+        {forecast && forecast.map((data, index) => {
+            return  <Card key ={index}>
+                      <CardItem header><Text>{title}</Text></CardItem>
+                      <CardItem bordered>
                         <Body>
-                            <Thumbnail source={{uri: `${info.query.results.image.url}` }} />
-                            <Text>{data.date} - {data.day} </Text>
-                            <Text> Highest Temprature: {data.high}</Text>
-                            <Text> Lowest Temprature: {data.low}</Text>
-                            <Text> Description: {data.text}</Text>
+                          <Text>{data.date} - {data.day} </Text>
+                          <Text> Highest Temprature: {data.high}</Text>
+                          <Text> Lowest Temprature: {data.low}</Text>
+                          <Text> Description: {data.text}</Text>
+                          <Text> Wind Speed: {wind.speed} mph</Text>
                         </Body>
-                        </CardItem>
+                      </CardItem>
                     </Card>
         })}
-        <Text> Wind Speed: {info.wind && info.wind.speed} mph</Text>
       </View>
     );
   }
