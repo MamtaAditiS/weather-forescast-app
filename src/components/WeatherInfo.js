@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Content, Accordion , Card, CardItem, Text, Body , Thumbnail } from 'native-base';
 import { View } from 'react-native'; 
 
-export default class SpecifyArea extends Component {
+export default class WeatherInfo extends Component {
   render() {
       
     const { info } = this.props
@@ -12,10 +12,9 @@ export default class SpecifyArea extends Component {
       <View style={{ paddingRight: 20 }}>
         {forecast && forecast.map((data, index) => {
             return  <Card key ={index}>
-                      <CardItem header><Text>{title}</Text></CardItem>
+                      <CardItem header> {data.date} - {data.day}</CardItem>
                       <CardItem bordered>
                         <Body>
-                          <Text>{data.date} - {data.day} </Text>
                           <Text> Highest Temprature: {data.high}</Text>
                           <Text> Lowest Temprature: {data.low}</Text>
                           <Text> Description: {data.text}</Text>
