@@ -4,15 +4,19 @@ import { Link } from 'react-router-native';
 import { Form, Item, Input, Label, Button } from 'native-base';
 import { LoginForm } from '../components';
 
-const remote = 'https://i.pinimg.com/236x/fc/31/f4/fc31f4d99b85b03089ca01769ec8a6f0--iphone-se.jpg';
+const remote = 'https://i.pinimg.com/originals/ae/e2/c7/aee2c787f9f57fc243d8890dfc54b9b0.jpg';
 
 export default class WelcomePage extends React.Component {
 
   render() {
+    //console.log(this.props, 'this.props')
+
     return (
-      <ImageBackground  style={{ height : '100%' , width : '100%'}} source={{ uri: remote }}>
+      <ImageBackground style={styles.bgImg} source={{ uri: remote }}>
         <TouchableOpacity style={styles.container} onPress={() => this.props.history.push('/login')}>
+          {/* <Image style={{width: 50, height: 50}} source={{uri: 'http://icons.iconarchive.com/icons/graphicloads/flat-finance/256/unlock-icon.png'}}/> */}
           <Text style={styles.wcText}>Welcome!</Text>
+          <Text style={styles.wcDesc}>This app is under construction, but beta version will be always available.</Text>
           <Text style={styles.title}>-R-N-B-P-</Text>
           <Text style={styles.subtitle}> - React - Native - Base - Practice - </Text>
           <Text style={{ color: '#fff', paddingTop: 150, fontSize: 10, textAlign: 'center' }}>Tap to continue...</Text>

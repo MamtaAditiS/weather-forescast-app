@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /home/tech/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4f245c61301916c9301d228f30aa3461/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6906cc352f8ff6006698d526683c41b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7cc304a3896c1a5cf6e7a143fab54fbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cb43eea08c4b8e04aeb8e98c6671c8f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e462337a6a66353be7bf18f6f9ea743c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/81cbd1b5ab7a5896700b421adcbcf6a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/56b7b7985073dae6393b5d142d11493c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39969386f335818eebf59b753fbbbdf5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b89f967d33479d9410239f3ff0d74183/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/1b3f01ed24c5374d3cd6a6f0f7e17e4a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/600e0e6293e18397656bc5748d29d49c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3d508214bfebe02a9a8e52c93d36c4a4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e77248ba7379a7eca9dc05e81ce80d8b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/tech/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dfe466a39d9f149d91b0d537ac149975/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/tech/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/6ea593e04b4b73d7d615dba82fca89f3/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/33df50cb0f166284c48baf4fcc50a765/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63bbe4a4f5b3a10f41719e9d27195ff1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/48aba48a1be3ced69132f7580f18e1f1/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/187f14c9ce1a4d23a18d62018009d297/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/274db86ad36f273003251fd88d8d042b/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /home/tech/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4f245c61301916c9301d228f30aa3461/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /home/tech/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4f245c61301916c9301d228f30aa3461/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /home/tech/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4f245c61301916c9301d228f30aa3461/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /home/tech/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4f245c61301916c9301d228f30aa3461/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/tech/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dfe466a39d9f149d91b0d537ac149975/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/tech/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dfe466a39d9f149d91b0d537ac149975/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/tech/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/6ea593e04b4b73d7d615dba82fca89f3/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/tech/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/6ea593e04b4b73d7d615dba82fca89f3/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.weather_forecast.MainActivity
+ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /home/tech/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4f245c61301916c9301d228f30aa3461/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /home/tech/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4f245c61301916c9301d228f30aa3461/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6906cc352f8ff6006698d526683c41b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6906cc352f8ff6006698d526683c41b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7cc304a3896c1a5cf6e7a143fab54fbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7cc304a3896c1a5cf6e7a143fab54fbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cb43eea08c4b8e04aeb8e98c6671c8f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cb43eea08c4b8e04aeb8e98c6671c8f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e462337a6a66353be7bf18f6f9ea743c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e462337a6a66353be7bf18f6f9ea743c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/81cbd1b5ab7a5896700b421adcbcf6a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/81cbd1b5ab7a5896700b421adcbcf6a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/56b7b7985073dae6393b5d142d11493c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/56b7b7985073dae6393b5d142d11493c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39969386f335818eebf59b753fbbbdf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/tech/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39969386f335818eebf59b753fbbbdf5/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b89f967d33479d9410239f3ff0d74183/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b89f967d33479d9410239f3ff0d74183/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/1b3f01ed24c5374d3cd6a6f0f7e17e4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/1b3f01ed24c5374d3cd6a6f0f7e17e4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/600e0e6293e18397656bc5748d29d49c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/600e0e6293e18397656bc5748d29d49c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3d508214bfebe02a9a8e52c93d36c4a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3d508214bfebe02a9a8e52c93d36c4a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e77248ba7379a7eca9dc05e81ce80d8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e77248ba7379a7eca9dc05e81ce80d8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/tech/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dfe466a39d9f149d91b0d537ac149975/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/tech/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dfe466a39d9f149d91b0d537ac149975/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/33df50cb0f166284c48baf4fcc50a765/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/33df50cb0f166284c48baf4fcc50a765/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63bbe4a4f5b3a10f41719e9d27195ff1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63bbe4a4f5b3a10f41719e9d27195ff1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/48aba48a1be3ced69132f7580f18e1f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/tech/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/48aba48a1be3ced69132f7580f18e1f1/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/187f14c9ce1a4d23a18d62018009d297/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/187f14c9ce1a4d23a18d62018009d297/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/274db86ad36f273003251fd88d8d042b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/tech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/274db86ad36f273003251fd88d8d042b/AndroidManifest.xml:20:5-44
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/tech/Project/weather_forecast/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
